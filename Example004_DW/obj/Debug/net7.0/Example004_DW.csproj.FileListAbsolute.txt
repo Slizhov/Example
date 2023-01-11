@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\bin\Debug\net7.0\Example004_DW.exe
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\bin\Debug\net7.0\Example004_DW.deps.json
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\bin\Debug\net7.0\Example004_DW.runtimeconfig.json
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\bin\Debug\net7.0\Example004_DW.dll
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\bin\Debug\net7.0\Example004_DW.pdb
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.AssemblyInfo.cs
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.dll
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\refint\Example004_DW.dll
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.pdb
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\Example004_DW.genruntimeconfig.cache
+C:\Users\user\Desktop\PROJECTS\Examples\Example004_DW\obj\Debug\net7.0\ref\Example004_DW.dll
